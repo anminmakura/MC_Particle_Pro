@@ -1,6 +1,8 @@
 <h1 align="center">Blender Addon: MC Particle Pro</h1>
 <h3 align="center">Documentation page for developers and purchasers of MC Particle Pro.</h3>
 
+![Mcpp_icon_git](https://user-images.githubusercontent.com/39670701/234449788-ba50e993-7d3f-4c24-8186-38567ea49800.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anminmakura&label=Profile%20views&color=0e75b6&style=flat" alt="anminmakura" /> </p>
 
 <h3 align="left">Connect with me:</h3>
