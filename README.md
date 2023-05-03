@@ -61,6 +61,9 @@ Currently the supported and confirmed working Blender versions are 3.4.0 to 3.5.
 
 ## License
 
+[![License: GNU v3](https://img.shields.io/badge/License-GNUv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+
+
 MC Particle Pro Addon (C) 2023 anminmakura
 Created by anminmakura
-License : GNU General Public [License version3](http://www.gnu.org/licenses/)
+License : GNU General Public License version3
